@@ -1,0 +1,114 @@
+About the job
+Machine Learning Engineer II
+
+
+
+Experience: 4+ years
+Salary : INR 1,75,000 - 2,10,000 / month
+Expected Notice Period: 2 to 4 Weeks
+Shift: (GMT+05:30) Asia/Kolkata (IST)
+Opportunity Type: Remote
+Placement Type: Permanent
+
+
+(*Note: This is a requirement for one of Uplers' clients)
+
+
+
+What do you need for this opportunity?
+
+Primary Skills:
+A/B Test Design, ChatGPT, Complex SQL Queries, ETL pipeline, llm prompt engineering, Natural Language Processing, Snowflake, Spark, Machine Learning, Python
+Assessment: 
+
+Role based AI Screening covering Communication and Technical Skills
+
+
+Our Hiring Partner is Looking for:
+
+Machine Learning Engineer II who is passionate about their work, eager to learn and grow, and who is committed to delivering exceptional results. If you are a team player, with a positive attitude and a desire to make a difference, then we want to hear from you.
+
+
+Roles & Responsibilities
+
+The Tripadvisor Data Science Team is looking for an exceptional experienced Machine Learning Engineer to help lead the design and implementation of next generation systems to help our users discover, iterate, and execute on their travel plans. Our team is focused on recommendation, personalization, explanation, and enhanced user interaction across multiple business verticals including Tripadvisor Experiences, Accommodations, and Restaurants. As a Machine Learning Engineer working in this space, you will have the opportunity to apply your modeling and engineering skills to a number of different areas, with a particular focus on recommendations, generative AI, NLP, and system design.
+
+
+This position requires work hours alignment with UK/Lisbon time zone.
+
+What You Will Be Doing:
+
+Seek out new opportunities to apply data science and machine learning to the business (e.g., personalized recommendations, NLP, customer modeling) across all channels (e.g., Web, email, paid marketing)
+Work with other teams in solving problems and identifying opportunities
+Lead the design of machine learning models to solve a variety of core business problems in customer acquisition, retention, and reactivation
+Automate ETL pipelines
+Prototype, evaluate, deploy and maintain new models in production
+Design AB tests and analyze their results
+Discover new ways to analyze and interpret the data
+Communicate progress and interpretation of experimental results to technical and business stakeholders
+Lead the determination of next steps for each project.
+
+
+What You Are Like:
+
+Team player
+Loves to learn
+Great communication skills with both technical and non-technical partners
+Gets things done on time and on specification
+Can work independently
+
+
+Project Requirements:
+
+Qualifications:
+
+PhD or Masters in Computer Science, Engineering, Statistics, or related field preferred
+Strong software engineering skills
+Experience with Natural Language Processing
+Experience with LLM prompt engineering
+Automate ETL pipelines is important
+Strong background in machine learning and statistics
+Solid foundation on data structures and algorithms
+Proficiency in Python for numerical/statistical programming (our group relies heavily on Pandas/Numpy/Scikit-learn/PyTorch)
+Ability to write complex SQL queries
+Experience with big data technologies, such as Snowflake and Spark
+Knowledge of AB test design and analysis
+Track record of leading the deployment and maintenance of models
+At least 2+ year of relevant, practical experience in Machine Learning - Mandatory
+
+
+Nice to Haves:
+
+Exposure to LLM offerings from various vendors (ChatGPT, LLama, PaLM…)
+Experience with online businesses.
+Experience with Recommender Systems
+Important Note:
+
+Kaamwork is the on-the-ground HR partner managing services employment contracts, payroll, and compliance.
+Kaamwork serves as the Employer of Record while Trip managers all work-related decisions and operations.
+The shared Salary is just the range. The final salary will get released based on your technical expertise, Interview experience and overall interaction on multiple clients' rounds. Do not consider the given range as FINAL expectation or will receive.
+
+
+How to apply for this opportunity?
+
+Register or login on our portal & fill out the application
+Clear the given AI Screening (30 min) and Click on ‘Apply’ to get shortlisted
+Our team of talent matchmakers will matchmake you with the client
+Crack a quick interview with our client
+Land your global dream job and get your exciting career started!
+
+
+About our Hiring Partner:
+
+Tripadvisor, the world's largest travel guidance platform*, helps hundreds of millions of people each month** become better travelers, from planning to booking to taking a trip. Travelers across the globe use the Tripadvisor site and app to discover where to stay, what to do and where to eat based on guidance from those who have been there before. With more than 1 billion reviews and opinions of nearly 8 million businesses, travelers turn to Tripadvisor to find deals on accommodations, book experiences, reserve tables at delicious restaurants and discover great places nearby. As a travel guidance company available in 43 markets and 22 languages, Tripadvisor makes planning easy no matter the trip type.
+
+
+About Uplers:
+
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant permanent opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement. You will also be assigned to a dedicated Talent Success Coach during the engagement.
+
+
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+
+
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!
